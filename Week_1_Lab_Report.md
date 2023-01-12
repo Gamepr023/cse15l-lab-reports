@@ -1,5 +1,5 @@
 # Week 1 Lab Report
-This is a tutorial on how to log into `ieng6`, a UCSD CSE 15L course-specific account
+This is a tutorial on how to log into `ieng6`, a UCSD CSE 15L course-specific account using Remote Access.
 
 ## **Step 1: Installing Visual Studio Code**
 This is the main program that will be used in this course. Install [VSCode](https://code.visualstudio.com/) and open it when it is done installing. It should look something like this:
@@ -38,7 +38,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
 Type yes and press enter. Then, type in your password and press enter. It is normal for the terminal to not show you what you are typing, but it will still log you in. 
 
-## **Run Some Commands**
+## **Use the Terminal to Run Commands**
 If your terminal looks like:
 
 ```
@@ -57,3 +57,10 @@ Thu Jan 12, 2023  2:31pm - Prepping cs15lwi23
 ```
 
 You have successfully connected to the UCSD CSE 15L course-specific account, and all commands will be run on the CSE Server.
+
+Try different commands like:
+
+- `cd` - Change the directory to another path
+- `pwd` - Print working directory and displays current path
+- `ls` - Prints all files and folders in a path
+- `cat` - Prints contents of all files in a path
