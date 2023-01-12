@@ -64,3 +64,7 @@ Try different commands like:
 - `pwd` - Print working directory and displays current path
 - `ls` - Prints all files and folders in a path
 - `cat` - Prints contents of all files in a path
+
+Here is an example of some of the commands being run:
+
+![image](https://github.com/Gamepr023/cse15l-lab-reports/blob/main/TestCommandsScreenshot.png?raw=true)
