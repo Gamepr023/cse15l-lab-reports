@@ -11,6 +11,13 @@ Git Bash is the terminal that will be used to access the course account. Install
 
 ![image](TerminalScreenshot.png)
 
-Then pressing the down arrow next to the plus sign here, and selecting *Git Bash*.
+Then press the down arrow next to the plus sign here, and select *Git Bash*.
 
 ![image](GitBashTerminalScreenshot.png)
+
+## **Step 3: Connecting to the Account**
+In the terminal make sure to type: 
+
+`$ ssh cs15lwi23___@ieng6.ucsd.edu`
+
+The dollar sign will be there already and remember to replace the blank space with your own account details.
