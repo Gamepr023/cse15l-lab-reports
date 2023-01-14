@@ -1,4 +1,10 @@
 # Week 1 Lab Report
+By: Allen Yan
+
+PID: A17685719
+
+---
+
 This is a tutorial on how to log into `ieng6`, a UCSD CSE 15L course-specific account using Remote Access.
 
 ## **Step 1: Installing Visual Studio Code**
