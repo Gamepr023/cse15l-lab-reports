@@ -17,13 +17,13 @@ I chose the `grep` command and found the following 4 interesting options:
 ---
 ## Using `-r`
 
-Example 1:
+**Example 1:**
 
 ![image](-r_example.png)
 
 This looked through all files in the written_2/ directory and found all lines that have "lake" in them. It is useful for finding which files have a certain word.
 
-Example 2:
+**Example 2:**
 
 ![image](-r_example2.png)
 
@@ -32,13 +32,13 @@ This looked through all files in the written_2/non-fiction/ directory and found 
 ---
 ## Using `"word$"`
 
-Example 1:
+**Example 1:**
 
 ![image]($_example.png)
 
 This looked through a text file and found all of the lines that end in "a". This is useful for finding which lines end in a certain word, especially if your file is sorted in a certain way.
 
-Example 2:
+**Example 2:**
 
 ![image]($_example2.png)
 
@@ -47,13 +47,13 @@ I combined this option with the `-r` option to check multiple text files. This l
 ---
 ## Using `-C(number of lines)`
 
-Example 1:
+**Example 1:**
 
 ![image](-c_example.png)
 
 This command found the line with the word "signatures" in the WhereToLosAngeles.txt file, and printed the line as well as the 3 lines before and after it. It can be useful for finding a line and the context of it.
 
-Example 1:
+**Example 1:**
 
 ![image](-c_example2.png)
 
@@ -62,13 +62,13 @@ This command found the line with the word "signatures" in multiple text files in
 ---
 ## Using `-n`
 
-Example 1:
+**Example 1:**
 
 ![image](-n_example.png)
 
 This command finds a certain word in a file and the line number of the line that contains that word. This can be useful to find where a word is in a text file and then be able to use the number and find it easily in the actual text file.
 
-Example 2:
+**Example 2:**
 
 ![image](-n_example2.png)
 
