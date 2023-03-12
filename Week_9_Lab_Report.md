@@ -19,6 +19,8 @@ Then, I would log in using `ssh cs15lwi23agf@ieng6.ucsd.edu`, then immediately r
 ![image](tasksp1-1.png)
 ![image](tasksp1-2.png)
 
+(I had to split the image above since it was too long for 1 page and messed up the formatting of the PDF)
+
 This shows that the file was successfully pushed to GitHub.
 
 ![image](commit.png)
