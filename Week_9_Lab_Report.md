@@ -16,7 +16,8 @@ This would most likely already be typed so I just have to hit up arrow twice and
 Then, I would log in using `ssh cs15lwi23agf@ieng6.ucsd.edu`, then immediately run `bash tasks.sh` which would run the bash script and complete all of the tasks instantly.
 
 ---
-![image](tasksp1.png)
+![image](tasksp1-1.png)
+![image](tasksp1-2.png)
 
 This shows that the file was successfully pushed to GitHub.
 
